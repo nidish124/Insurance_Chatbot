@@ -1,0 +1,8 @@
+logs/
+RAG_medical_chatbot.egg-info/
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+test.ipynb
